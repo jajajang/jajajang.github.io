@@ -6,7 +6,7 @@ subtitle: Machine Learning Researcher
 
 # Intro
 
-I am a postdoctoral researcher working with prof. Komiyama Junpei at NYU. Prior to this, I did my first postdoc with prof. Kwang-Sung Jun at the University of Arizona. I got my Ph.D. in the Department of Mathematical Science at KAIST (Korea Advanced Institute of Science and Technology) with the advisor Wanmo Kang. 
+I am a postdoctoral researcher working with prof. Komiyama Junpei at NYU. Prior to this, I did my first postdoc with prof. Kwang-Sung Jun at the University of Arizona. I got my Ph.D. in the Department of Mathematical Science at KAIST (Korea Advanced Institute of Science and Technology) with the advisor Wanmo Kang.
 
 My research interests lie in the mathematical analysis of machine learning problems. More specifically, my research has been focused on
 * Bandit problems (currently my main interest)
