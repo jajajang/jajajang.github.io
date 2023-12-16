@@ -5,7 +5,7 @@ subtitle: Feel free to contact me!
 ---
 
 # E-mail Addresses
-* ksajks
+* ksajks [at] gmail [dot] com
 * firstname.lastname
 
 # Office Address
