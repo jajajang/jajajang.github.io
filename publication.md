@@ -5,6 +5,9 @@ subtitle: Machine Learning Researcher
 ---
 
 # Official Publications
+
+_________________
+
 ### Tighter PAC-Bayes bound through Coin-Betting
 
 **Kyoungseok Jang**, Kwang-Sung Jun, Ilja Kuzborskij, Francesco Orabona
@@ -33,6 +36,8 @@ In International Conference on Machine Learning (ICML), accepted, 2021
 
 # Preprints
 
+_________________
+
 ### Low-rank Bandits via Arm-set-dependent Exploration
 
 **Kyoungseok Jang**, Kwang-sung Jun, Chicheng Zhang
@@ -44,6 +49,8 @@ Under Review
 
 
 # Workshop paper
+
+_________________
 
 ### Improved Time-Uniform PAC-Bayes Bounds using Coin Betting
 
