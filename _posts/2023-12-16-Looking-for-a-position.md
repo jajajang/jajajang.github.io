@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Looking for my next position
-subtitle: Contact: ksajks [at] gmail [dot] edu
 comments: true
 ---
 
