@@ -23,6 +23,7 @@ navbar-links:
   About Me: "aboutme"
   Publications : "publication"
   Academic Services: "academic_service"
+  Contacts: "contacts"
 
 ################
 # --- Logo --- #
