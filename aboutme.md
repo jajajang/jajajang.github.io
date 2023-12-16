@@ -18,10 +18,7 @@ My research interests lie in the mathematical analysis of machine learning probl
 
 
 
-</br>
-</br>
-</br>
-
+.
 
 
 
@@ -42,6 +39,9 @@ My research interests lie in the mathematical analysis of machine learning probl
 
 
 
+.
+
+
 
 # Educations
 
@@ -53,6 +53,9 @@ My research interests lie in the mathematical analysis of machine learning probl
 </br>
 </br>
 
+
+
+.
 
 
 
