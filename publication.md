@@ -12,7 +12,7 @@ _________________
 
 **Kyoungseok Jang**, Kwang-Sung Jun, Ilja Kuzborskij, Francesco Orabona
 
-In Conference on Learning Theory (COLT), accepted, 2023
+In Conference on Learning Theory (COLT), accepted, 2023 [link](https://arxiv.org/abs/2302.05829) 
 
 
 
@@ -20,7 +20,7 @@ In Conference on Learning Theory (COLT), accepted, 2023
 
 **Kyoungseok Jang**, Chicheng Zhang, Kwang-Sung Jun
 
-In Conference on Neural Information Processing Systems (NeurIPS), accepted, 2022
+In Conference on Neural Information Processing Systems (NeurIPS), accepted, 2022 [link](https://arxiv.org/abs/2210.15345)
 
 
 
@@ -28,7 +28,7 @@ In Conference on Neural Information Processing Systems (NeurIPS), accepted, 2022
 
 **Kyoungseok Jang**, Kwang-Sung Jun, Se Young Yun, Wanmo Kang.
 
-In International Conference on Machine Learning (ICML), accepted, 2021
+In International Conference on Machine Learning (ICML), accepted, 2021 [link](https://proceedings.mlr.press/v139/jang21a.html)
 
 
 
