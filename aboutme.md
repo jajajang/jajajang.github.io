@@ -16,6 +16,9 @@ My research interests lie in the mathematical analysis of machine learning probl
   - Contextual bandit
 * Generalization bounds (PAC-Bayes bound)
 
+</br>
+</br>
+</br>
 
 
 
@@ -31,6 +34,9 @@ My research interests lie in the mathematical analysis of machine learning probl
   - Python, Pytorch
   - MATLAB
 
+</br>
+</br>
+</br>
 
 
 
@@ -41,6 +47,9 @@ My research interests lie in the mathematical analysis of machine learning probl
 * Bachelor's degree in Mathematical Science & Computer Science (minor), KAIST, Daejeon, Korea (2015)
 * Korea Science Academy, Busan, Korea (2008)
 
+</br>
+</br>
+</br>
 
 
 
