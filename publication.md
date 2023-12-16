@@ -4,7 +4,7 @@ title: Publications
 subtitle: Machine Learning Researcher
 ---
 
-# Publications
+# Official Publications
 ### Tighter PAC-Bayes bound through Coin-Betting
 
 **Kyoungseok Jang**, Kwang-Sung Jun, Ilja Kuzborskij, Francesco Orabona
