@@ -8,11 +8,17 @@ subtitle: Machine Learning Researcher
 
 I am a postdoctoral researcher working with prof. Komiyama Junpei at NYU. Prior to this, I did my first postdoc with prof. Kwang-Sung Jun at the University of Arizona. I got my Ph.D. in the Department of Mathematical Science at KAIST (Korea Advanced Institute of Science and Technology) with the advisor Wanmo Kang.
 
+
+
 My research interests lie in the mathematical analysis of machine learning problems. More specifically, my research has been focused on
 * Bandit problems (currently my main interest)
   - High-dimensional bandits (sparse, bilinear, etc.)
   - Contextual bandit
 * Generalization bounds (PAC-Bayes bound)
+
+
+
+
 
 # Skills
 
@@ -25,11 +31,19 @@ My research interests lie in the mathematical analysis of machine learning probl
   - Python, Pytorch
   - MATLAB
 
+
+
+
+
 # Educations
 
 * Integrated Master's & Ph.D. Program in Mathematical Science, KAIST, Daejeon, Korea (advisor: Prof. Wanmo Kang)
 * Bachelor's degree in Mathematical Science & Computer Science (minor), KAIST, Daejeon, Korea (2015)
 * Korea Science Academy, Busan, Korea (2008)
+
+
+
+
 
 # Work Experience
 
