@@ -14,7 +14,7 @@ _________________
 
 In Conference on Learning Theory (COLT), accepted, 2023 [link](https://arxiv.org/abs/2302.05829) 
 
-
+&nbsp;
 
 ### PopArt: Efficient Sparse Regression and Experimental Design for Optimal Sparse Linear Bandits
 
@@ -22,7 +22,7 @@ In Conference on Learning Theory (COLT), accepted, 2023 [link](https://arxiv.org
 
 In Conference on Neural Information Processing Systems (NeurIPS), accepted, 2022 [link](https://arxiv.org/abs/2210.15345)
 
-
+&nbsp;
 
 ### Improved Regret Bounds of Bilinear Bandits using Action Space Analysis.
 
@@ -30,9 +30,9 @@ In Conference on Neural Information Processing Systems (NeurIPS), accepted, 2022
 
 In International Conference on Machine Learning (ICML), accepted, 2021 [link](https://proceedings.mlr.press/v139/jang21a.html)
 
+&nbsp;
 
-
-
+&nbsp;
 
 # Preprints
 
