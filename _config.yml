@@ -10,17 +10,17 @@
 ############################
 
 # Name of website
-title: My Website
+title: Kyoungseok Jang
 
 # Your name to show in the footer
-author: Some Person
+author: Kyoungseok JAng
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "I am a postdoctoral researcher working with Prof. Komiyama Junpei at NYU. Prior to this, I did my first postdoc with Prof. Kwang-Sung Jun at the University of Arizona. I got my Ph.D. in the Department of Mathematical Science at KAIST (Korea Advanced Institute of Science and Technology) with the advisor Wanmo Kang. My research interests lie in the sequential decision-makings (multi-armed bandits, best-arm-identification) and generalization bound (PAC-Bayes bound)."
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
