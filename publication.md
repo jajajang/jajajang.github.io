@@ -44,7 +44,7 @@ _________________
 
 Under Review
 
-&nbsp
+&nbsp;
 
 ### Fixed Confidence Best Arm Identification in the Bayesian Setting 
 
@@ -52,7 +52,7 @@ Under Review
 
 Under Review
 
-&nbsp
+&nbsp;
 
 ### Better-than-KL PAC-Bayes bounds
 
