@@ -38,11 +38,29 @@ In International Conference on Machine Learning (ICML), accepted, 2021 [link](ht
 
 _________________
 
-### Low-rank Bandits via Arm-set-dependent Exploration
+### Efficient Low-Rank Matrix Estimation, Experimental Design, and Arm-Set-Dependent Low-Rank Bandits
 
 **Kyoungseok Jang**, Kwang-sung Jun, Chicheng Zhang
 
 Under Review
+
+&nbsp
+
+### Fixed Confidence Best Arm Identification in the Bayesian Setting 
+
+**Kyoungseok Jang**, Junpei Komiyama, Kazutoshi Yamazaki
+
+Under Review
+
+&nbsp
+
+### Better-than-KL PAC-Bayes bounds
+
+Ilja Kuzborskij, Kwang-Sung Jun, Yulian Wu, **Kyoungseok Jang**, Francesco Orabona
+
+Under Review [link](https://arxiv.org/abs/2402.09201)
+
+
 
 
 &nbsp;
