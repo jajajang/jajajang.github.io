@@ -42,7 +42,7 @@ _________________
 
 **Kyoungseok Jang**, Kwang-sung Jun, Chicheng Zhang
 
-Under Review
+Under Review [link](https://arxiv.org/abs/2402.11156) 
 
 &nbsp;
 
@@ -50,7 +50,7 @@ Under Review
 
 **Kyoungseok Jang**, Junpei Komiyama, Kazutoshi Yamazaki
 
-Under Review
+Under Review [link](https://arxiv.org/abs/2402.10429)
 
 &nbsp;
 
