@@ -6,15 +6,14 @@ subtitle: Machine Learning Researcher
 
 # Intro
 
-I am a postdoctoral researcher working with prof. Komiyama Junpei at NYU. Prior to this, I did my first postdoc with prof. Kwang-Sung Jun at the University of Arizona. I got my Ph.D. in the Department of Mathematical Science at KAIST (Korea Advanced Institute of Science and Technology) with the advisor Wanmo Kang.
+I am a postdoctoral researcher working with Prof. Nicolò Cesa-Bianchi at Università Degil Studi di Milano. Before this, I did my postdoc with Prof. Komiyama Junpei at NYU, and Prof. Kwang-Sung Jun at the University of Arizona. I got my Ph.D. in the Department of Mathematical Science at KAIST (Korea Advanced Institute of Science and Technology) with the advisor Wanmo Kang. 
 
-
-
-My research interests lie in the mathematical analysis of machine learning problems. More specifically, my research has been focused on
+My research interests lie in the mathematical analysis of machine learning problems. More specifically, my research has been focused on 
 * Bandit problems (currently my main interest)
   - High-dimensional bandits (sparse, bilinear, etc.)
-  - Contextual bandit
+  - Best arm identification
 * Generalization bounds (PAC-Bayes bound)
+* Other probabilistic tools (Stochastic PDE, Random Matrix Theory, etc......)
 
 &nbsp;
 
@@ -47,7 +46,8 @@ My research interests lie in the mathematical analysis of machine learning probl
 
 # Work Experience
 
-* 23/08 - present: Postdoctoral Researcher at NYU Stern
+* 24/03 - present: Postdoctoral Researcher at Università Degli Studi di Milano (Advisor: Nicolò Cesa-Bianchi)
+* 23/08 - present: Postdoctoral Researcher at NYU Stern (Advisor: Junpei Komiyama)
 * 23/01 - 23/05: Instructor of 'Principle of Data Science' at Univ. of Arizona (CSC380)
-* 22/03 - 23/07: Postdoctoral Researcher at the University of Arizona
+* 22/03 - 23/07: Postdoctoral Researcher at the University of Arizona (Advisor: Kwang-Sung Jun)
 * 17/07: KAKAO brain intern
