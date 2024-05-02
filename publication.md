@@ -8,6 +8,14 @@ subtitle: Machine Learning Researcher
 
 _________________
 
+### Efficient Low-Rank Matrix Estimation, Experimental Design, and Arm-Set-Dependent Low-Rank Bandits
+
+**Kyoungseok Jang**, Kwang-sung Jun, Chicheng Zhang
+
+In International Conference on Machine Learning (ICML), accepted, 2024 [link](https://arxiv.org/abs/2402.11156) 
+
+&nbsp;
+
 ### Tighter PAC-Bayes bound through Coin-Betting
 
 **Kyoungseok Jang**, Kwang-Sung Jun, Ilja Kuzborskij, Francesco Orabona
@@ -37,14 +45,6 @@ In International Conference on Machine Learning (ICML), accepted, 2021 [link](ht
 # Preprints
 
 _________________
-
-### Efficient Low-Rank Matrix Estimation, Experimental Design, and Arm-Set-Dependent Low-Rank Bandits
-
-**Kyoungseok Jang**, Kwang-sung Jun, Chicheng Zhang
-
-Under Review [link](https://arxiv.org/abs/2402.11156) 
-
-&nbsp;
 
 ### Fixed Confidence Best Arm Identification in the Bayesian Setting 
 
