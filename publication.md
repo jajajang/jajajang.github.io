@@ -16,6 +16,14 @@ In International Conference on Machine Learning (ICML), accepted, 2024 [link](ht
 
 &nbsp;
 
+### Better-than-KL PAC-Bayes bounds
+
+Ilja Kuzborskij, Kwang-Sung Jun, Yulian Wu, **Kyoungseok Jang**, Francesco Orabona
+
+In Conference on Learning Theory (COLT), accepted, 2024 [link](https://arxiv.org/abs/2402.09201)
+
+&nbsp;
+
 ### Tighter PAC-Bayes bound through Coin-Betting
 
 **Kyoungseok Jang**, Kwang-Sung Jun, Ilja Kuzborskij, Francesco Orabona
@@ -51,17 +59,6 @@ _________________
 **Kyoungseok Jang**, Junpei Komiyama, Kazutoshi Yamazaki
 
 Under Review [link](https://arxiv.org/abs/2402.10429)
-
-&nbsp;
-
-### Better-than-KL PAC-Bayes bounds
-
-Ilja Kuzborskij, Kwang-Sung Jun, Yulian Wu, **Kyoungseok Jang**, Francesco Orabona
-
-Under Review [link](https://arxiv.org/abs/2402.09201)
-
-
-
 
 &nbsp;
 
