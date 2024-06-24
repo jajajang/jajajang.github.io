@@ -62,12 +62,27 @@ Under Review [link](https://arxiv.org/abs/2402.10429)
 
 &nbsp;
 
+### Sparsity-Agnostic Linear Bandits with Adaptive Adversaries
+
+Tianyuan Jin, **Kyoungseok Jang**, Nicolò Cesa-Bianchi
+
+Under Review [link](https://arxiv.org/abs/2406.01192)
+
 &nbsp;
 
+&nbsp;
 
 # Workshop paper
 
 _________________
+
+### Fixed Confidence Best Arm Identification in the Bayesian Setting 
+
+**Kyoungseok Jang**, Junpei Komiyama, Kazutoshi Yamazaki
+
+In the second RL theory workshop (co-located with COLT 2024), poster presentation, 2024
+
+&nbsp;
 
 ### Improved Time-Uniform PAC-Bayes Bounds using Coin Betting
 
