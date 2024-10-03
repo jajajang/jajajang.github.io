@@ -8,6 +8,22 @@ subtitle: Machine Learning Researcher
 
 _________________
 
+### Fixed Confidence Best Arm Identification in the Bayesian Setting 
+
+**Kyoungseok Jang**, Junpei Komiyama, Kazutoshi Yamazaki
+
+In Conference on Neural Information Processing Systems (NeurIPS), accepted, 2024 [link](https://arxiv.org/abs/2402.10429)
+
+&nbsp;
+
+### Sparsity-Agnostic Linear Bandits with Adaptive Adversaries
+
+Tianyuan Jin, **Kyoungseok Jang**, Nicolò Cesa-Bianchi
+
+In Conference on Neural Information Processing Systems (NeurIPS), accepted, 2024 [link](https://arxiv.org/abs/2406.01192)
+
+&nbsp;
+
 ### Efficient Low-Rank Matrix Estimation, Experimental Design, and Arm-Set-Dependent Low-Rank Bandits
 
 **Kyoungseok Jang**, Kwang-sung Jun, Chicheng Zhang
@@ -53,20 +69,6 @@ In International Conference on Machine Learning (ICML), accepted, 2021 [link](ht
 # Preprints
 
 _________________
-
-### Fixed Confidence Best Arm Identification in the Bayesian Setting 
-
-**Kyoungseok Jang**, Junpei Komiyama, Kazutoshi Yamazaki
-
-Under Review [link](https://arxiv.org/abs/2402.10429)
-
-&nbsp;
-
-### Sparsity-Agnostic Linear Bandits with Adaptive Adversaries
-
-Tianyuan Jin, **Kyoungseok Jang**, Nicolò Cesa-Bianchi
-
-Under Review [link](https://arxiv.org/abs/2406.01192)
 
 &nbsp;
 
