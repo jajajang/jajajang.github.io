@@ -8,7 +8,7 @@ subtitle: Machine Learning Researcher
 
 I am a postdoctoral researcher working with Prof. Nicolò Cesa-Bianchi at Università Degil Studi di Milano. Before this, I did my postdoc with Prof. Komiyama Junpei at NYU, and Prof. Kwang-Sung Jun at the University of Arizona. I got my Ph.D. in the Department of Mathematical Science at KAIST (Korea Advanced Institute of Science and Technology) with the advisor Wanmo Kang. 
 
-My research interests lie in the mathematical analysis of machine learning problems. More specifically, my research has been focused on 
+My research interests lie in the statistical learning problems. More specifically, my research has been focused on 
 * Bandit problems (currently my main interest)
   - High-dimensional bandits (sparse, bilinear, etc.)
   - Best arm identification
@@ -47,7 +47,7 @@ My research interests lie in the mathematical analysis of machine learning probl
 # Work Experience
 
 * 24/03 - present: Postdoctoral Researcher at Università Degli Studi di Milano (Advisor: Nicolò Cesa-Bianchi)
-* 23/08 - present: Postdoctoral Researcher at NYU Stern (Advisor: Junpei Komiyama)
+* 23/08 - 24/02: Postdoctoral Researcher at NYU Stern (Advisor: Junpei Komiyama)
 * 23/01 - 23/05: Instructor of 'Principle of Data Science' at Univ. of Arizona (CSC380)
 * 22/03 - 23/07: Postdoctoral Researcher at the University of Arizona (Advisor: Kwang-Sung Jun)
 * 17/07: KAKAO brain intern
