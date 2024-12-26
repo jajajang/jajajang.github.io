@@ -22,7 +22,7 @@ subtitle: Machine Learning Researcher
 
 ## Instructor
 * Principles of Data Science (CSC380), Univ. of Arizona
-
+[Link to the course homepage](https://zcc1307.github.io/csc380-sp23/index.html)
 
 
 
