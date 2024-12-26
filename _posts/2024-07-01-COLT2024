@@ -1,0 +1,13 @@
+---
+layout: post
+title: A new paper has been accepted at COLT 2024!
+comments: true
+---
+
+# Title: Tighter PAC-Bayes Bounds Through Coin-Betting
+## Authors: Ilja Kuzborskij, Kwang-Sung Jun, Yulian Wu, **Kyoungseok Jang**, Francesco Orabona
+[Link to the paper](https://arxiv.org/abs/2402.09201)
+
+
+**Abstract**: Let $f(\theta,X_1), \cdots , f(\theta,X_n)$ be a sequence of random elements, where $f$ is a fixed scalar function, $X_1,\cdots,X_n$ are independent random variables (data), and $\theta$ is a random parameter distributed according to some data-dependent posterior distribution Pn. In this paper, we consider the problem of proving concentration inequalities to estimate the mean of the sequence. An example of such a problem is the estimation of the generalization error of some predictor trained by a stochastic algorithm, such as a neural network where $f$ is a loss function. Classically, this problem is approached through a PAC-Bayes analysis where, in addition to the posterior, we choose a prior distribution which captures our belief about the inductive bias of the learning problem. Then, the key quantity in PAC-Bayes concentration bounds is a divergence that captures the complexity of the learning problem where the de facto standard choice is the KL divergence. However, the tightness of this choice has rarely been questioned.
+In this paper, we challenge the tightness of the KL-divergence-based bounds by showing that it is possible to achieve a strictly tighter bound. In particular, we demonstrate new high-probability PAC-Bayes bounds with a novel and better-than-KL divergence that is inspired by Zhang et al. (2022). Our proof is inspired by recent advances in regret analysis of gambling algorithms, and its use to derive concentration inequalities. Our result is first-of-its-kind in that existing PAC-Bayes bounds with non-KL divergences are not known to be strictly better than KL. Thus, we believe our work marks the first step towards identifying optimal rates of PAC-Bayes bounds.
