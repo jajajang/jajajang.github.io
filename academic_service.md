@@ -8,8 +8,10 @@ subtitle: Machine Learning Researcher
 * TMLR reviewer - 2023. 2024
 * JMLR reviewer - 2023 
 * ICML reviewer - 2023. 2024
-* NeurIPS reviewer - 2022, 2023
+* ICLR reviewer - 2024
+* NeurIPS reviewer - 2022, 2023, 2024
 * COLT reviewer - 2024
+* Management Science reviewer - 2024
 
 &nbsp;
 
