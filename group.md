@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Group Members
-subtitle: Statistical Learning & Reinforcement Learning Lab (SnRL)
+title: Statistical Learning & Reinforcement Learning Lab (SnRL)
+subtitle: Group Members
 ---
+
 
 # Looking for new students!
 
