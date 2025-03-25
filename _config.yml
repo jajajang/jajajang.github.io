@@ -21,6 +21,7 @@ author: Kyoungseok Jang
 
 navbar-links:
   About Me: "aboutme"
+  Group: "group"
   Publications : "publication"
   Academic Services: "academic_service"
   Contacts: "contacts"
