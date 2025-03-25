@@ -9,4 +9,4 @@ subtitle: Feel free to contact me!
 * ksajks [at] gmail [dot] com
 
 # Office Address
-* Room 7023, Via Giovanni Celoria, 18, 20133 Milano MI
+* Room 311, Building No. 305, 84 Heukseok-ro, Dongjak District, Seoul, South Korea, 06974
