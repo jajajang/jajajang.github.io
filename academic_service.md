@@ -5,12 +5,12 @@ subtitle: Machine Learning Researcher
 ---
 
 ## Reviewer
-* TMLR reviewer - 2023. 2024
+* TMLR reviewer - 2023. 2024, 2025
 * JMLR reviewer - 2023 
 * ICML reviewer - 2023. 2024
 * ICLR reviewer - 2024
-* NeurIPS reviewer - 2022, 2023, 2024
-* COLT reviewer - 2024
+* NeurIPS reviewer - 2022, 2023, 2024, 2025
+* COLT reviewer - 2024, 2025
 * Management Science reviewer - 2024
 
 &nbsp;
@@ -21,10 +21,12 @@ subtitle: Machine Learning Researcher
 
 
 ## Instructor
+* AI Convergence Seminar, Chung-Ang University
+* Mathematics for Machine Learning, Chung-Ang University
 * Principles of Data Science (CSC380), Univ. of Arizona
 
 
-[Link to the course homepage](https://zcc1307.github.io/csc380-sp23/index.html)
+[Link to the CSC380 homepage](https://zcc1307.github.io/csc380-sp23/index.html)
 
 
 
