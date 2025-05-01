@@ -8,7 +8,15 @@ subtitle: Machine Learning Researcher
 
 _________________
 
-### Fixed Confidence Best Arm Identification in the Bayesian Setting 
+#### GL-LowPopArt: A Nearly Instance-Wise Minimax Estimator for (Adaptive) Generalized Linear Low-Rank Trace Regression 
+
+Junghyun Lee, **Kyoungseok Jang**, Kwang-Sung Jun, Milan Vojnovic, Se-Young Yun
+
+In International Conference on Machine Learning (ICML), **Spotlight** accepted, 2025 
+
+&nbsp;
+
+#### Fixed Confidence Best Arm Identification in the Bayesian Setting 
 
 **Kyoungseok Jang**, Junpei Komiyama, Kazutoshi Yamazaki
 
@@ -16,7 +24,7 @@ In Conference on Neural Information Processing Systems (NeurIPS), accepted, 2024
 
 &nbsp;
 
-### Sparsity-Agnostic Linear Bandits with Adaptive Adversaries
+#### Sparsity-Agnostic Linear Bandits with Adaptive Adversaries
 
 Tianyuan Jin, **Kyoungseok Jang**, Nicolò Cesa-Bianchi
 
@@ -24,7 +32,7 @@ In Conference on Neural Information Processing Systems (NeurIPS), accepted, 2024
 
 &nbsp;
 
-### Efficient Low-Rank Matrix Estimation, Experimental Design, and Arm-Set-Dependent Low-Rank Bandits
+#### Efficient Low-Rank Matrix Estimation, Experimental Design, and Arm-Set-Dependent Low-Rank Bandits
 
 **Kyoungseok Jang**, Kwang-sung Jun, Chicheng Zhang
 
@@ -32,7 +40,7 @@ In International Conference on Machine Learning (ICML), accepted, 2024 [link](ht
 
 &nbsp;
 
-### Better-than-KL PAC-Bayes bounds
+#### Better-than-KL PAC-Bayes bounds
 
 Ilja Kuzborskij, Kwang-Sung Jun, Yulian Wu, **Kyoungseok Jang**, Francesco Orabona
 
@@ -40,7 +48,7 @@ In Conference on Learning Theory (COLT), accepted, 2024 [link](https://arxiv.org
 
 &nbsp;
 
-### Tighter PAC-Bayes bound through Coin-Betting
+#### Tighter PAC-Bayes bound through Coin-Betting
 
 **Kyoungseok Jang**, Kwang-Sung Jun, Ilja Kuzborskij, Francesco Orabona
 
@@ -48,7 +56,7 @@ In Conference on Learning Theory (COLT), accepted, 2023 [link](https://arxiv.org
 
 &nbsp;
 
-### PopArt: Efficient Sparse Regression and Experimental Design for Optimal Sparse Linear Bandits
+#### PopArt: Efficient Sparse Regression and Experimental Design for Optimal Sparse Linear Bandits
 
 **Kyoungseok Jang**, Chicheng Zhang, Kwang-Sung Jun
 
@@ -56,7 +64,7 @@ In Conference on Neural Information Processing Systems (NeurIPS), accepted, 2022
 
 &nbsp;
 
-### Improved Regret Bounds of Bilinear Bandits using Action Space Analysis.
+#### Improved Regret Bounds of Bilinear Bandits using Action Space Analysis.
 
 **Kyoungseok Jang**, Kwang-Sung Jun, Se Young Yun, Wanmo Kang.
 
@@ -78,7 +86,7 @@ _________________
 
 _________________
 
-### Fixed Confidence Best Arm Identification in the Bayesian Setting 
+#### Fixed Confidence Best Arm Identification in the Bayesian Setting 
 
 **Kyoungseok Jang**, Junpei Komiyama, Kazutoshi Yamazaki
 
@@ -86,7 +94,7 @@ In the second RL theory workshop (co-located with COLT 2024), poster presentatio
 
 &nbsp;
 
-### Improved Time-Uniform PAC-Bayes Bounds using Coin Betting
+#### Improved Time-Uniform PAC-Bayes Bounds using Coin Betting
 
 **Kyoungseok Jang**, Kwang-sung Jun, Ilja Kuzborskij, Francesco Orabona
 
