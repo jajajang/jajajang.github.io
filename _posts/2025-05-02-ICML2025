@@ -1,0 +1,13 @@
+---
+layout: post
+title: A new (spotlight) paper at ICML 2025!
+comments: true
+---
+
+# Title: GL-LowPopArt: A Nearly Instance-Wise Minimax Estimator for (Adaptive) Generalized Linear Low-Rank Trace Regression
+## Authors: Junghyun Lee, **Kyoungseok Jang**, Kwang-Sung Jun, Milan Vojnovic, Se-Young Yun
+
+
+
+**Abstract**: We present GL-LowPopArt, a novel Catoni-style estimator for generalized linear low-rank trace regression. Building on LowPopArt, (Jang et al., 2024), it employs a two-stage approach: nuclear norm regularization followed by matrix Catoni estimation. We establish state-of-the-art estimation error bounds, surpassing existing guarantees (Fan et al., 2019; Kang et al., 2022), and reveal a novel experimental design objective, 
+. The key technical challenge is controlling bias from the nonlinear inverse link function, which we address by our two-stage approach. We prove a local minimax lower bound, showing that our GL-LowPopArt, enjoys instance-wise optimality up to the condition number of the ground-truth Hessian. Applications include generalized linear matrix completion, where GL-LowPopArt, achieves a state-of-the-art Frobenius error guarantee, and bilinear dueling bandits, a novel setting inspired by general preference learning (Zhang et al., 2024). Our analysis of a GL-LowPopArt,-based explore-then-commit algorithm reveals a new, potentially interesting problem-dependent quantity, along with improved Borda regret bound than vectorization (Wu et al., 2024).
