@@ -77,8 +77,6 @@ _________________
 
 Junghyun Lee, **Kyoungseok Jang**, Kwang-Sung Jun, Milan Vojnovic, Se-Young Yun
 
-In International Conference on Machine Learning (ICML), **Spotlight** accepted, 2025 
-
 &nbsp;
 
 # Workshop paper
