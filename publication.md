@@ -8,14 +8,6 @@ subtitle: Machine Learning Researcher
 
 _________________
 
-#### GL-LowPopArt: A Nearly Instance-Wise Minimax Estimator for (Adaptive) Generalized Linear Low-Rank Trace Regression 
-
-Junghyun Lee, **Kyoungseok Jang**, Kwang-Sung Jun, Milan Vojnovic, Se-Young Yun
-
-In International Conference on Machine Learning (ICML), **Spotlight** accepted, 2025 
-
-&nbsp;
-
 #### Fixed Confidence Best Arm Identification in the Bayesian Setting 
 
 **Kyoungseok Jang**, Junpei Komiyama, Kazutoshi Yamazaki
@@ -79,6 +71,13 @@ In International Conference on Machine Learning (ICML), accepted, 2021 [link](ht
 _________________
 
 &nbsp;
+
+
+#### GL-LowPopArt: A Nearly Instance-Wise Minimax Estimator for (Adaptive) Generalized Linear Low-Rank Trace Regression 
+
+Junghyun Lee, **Kyoungseok Jang**, Kwang-Sung Jun, Milan Vojnovic, Se-Young Yun
+
+In International Conference on Machine Learning (ICML), **Spotlight** accepted, 2025 
 
 &nbsp;
 
