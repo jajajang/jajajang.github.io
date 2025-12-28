@@ -8,6 +8,14 @@ subtitle: Machine Learning Researcher
 
 _________________
 
+#### Online Linear Regression with Paid Stochastic Features
+
+Nadav Merlis, **Kyoungseok Jang**, Nicolò Cesa-Bianchi
+
+In The Association for the Advancement of Artificial Intelligence (AAAI), accepted, 2026 [link](https://arxiv.org/pdf/2511.08073)
+
+&nbsp;
+
 #### Fixed Confidence Best Arm Identification in the Bayesian Setting 
 
 **Kyoungseok Jang**, Junpei Komiyama, Kazutoshi Yamazaki
@@ -76,6 +84,18 @@ _________________
 #### GL-LowPopArt: A Nearly Instance-Wise Minimax Estimator for (Adaptive) Generalized Linear Low-Rank Trace Regression 
 
 Junghyun Lee, **Kyoungseok Jang**, Kwang-Sung Jun, Milan Vojnovic, Se-Young Yun
+
+&nbsp;
+
+#### Rate-optimal Design for Anytime Best Arm Identification
+
+Junpei Komiyama, **Kyoungseok Jang**, Honda Junya
+
+&nbsp;
+
+#### Sparse Linear Bandits with Fixed Sparsity Support: Adversarial and Stochastic Regimes
+
+**Kyoungseok Jang**, Nam Tran, Nicolò Cesa-Bianchi
 
 &nbsp;
 
