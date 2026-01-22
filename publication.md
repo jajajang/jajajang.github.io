@@ -8,6 +8,30 @@ subtitle: Machine Learning Researcher
 
 _________________
 
+#### Sparse Linear Bandits with Fixed Sparsity Support: Adversarial and Stochastic Regimes
+
+**Kyoungseok Jang**, Nam Tran, Nicolò Cesa-Bianchi
+
+In The Conference on Artificial Intelligence and Statistics (AISTATS), accepted, 2026
+
+&nbsp;
+
+#### GL-LowPopArt: A Nearly Instance-Wise Minimax Estimator for (Adaptive) Generalized Linear Low-Rank Trace Regression 
+
+Junghyun Lee, **Kyoungseok Jang**, Kwang-Sung Jun, Milan Vojnovic, Se-Young Yun
+
+In The Conference on Artificial Intelligence and Statistics (AISTATS), accepted, 2026 [link](https://arxiv.org/abs/2506.03074)
+
+&nbsp;
+
+#### Rate-optimal Design for Anytime Best Arm Identification
+
+Junpei Komiyama, **Kyoungseok Jang**, Honda Junya
+
+In The Conference on Artificial Intelligence and Statistics (AISTATS), accepted, 2026 [link](https://arxiv.org/abs/2510.23199)
+
+&nbsp;
+
 #### Online Linear Regression with Paid Stochastic Features
 
 Nadav Merlis, **Kyoungseok Jang**, Nicolò Cesa-Bianchi
@@ -80,22 +104,17 @@ _________________
 
 &nbsp;
 
+#### Stability and Generalization for Bellman Residuals
 
-#### GL-LowPopArt: A Nearly Instance-Wise Minimax Estimator for (Adaptive) Generalized Linear Low-Rank Trace Regression 
+Enoch H Kang, **Kyoungseok Jang**
 
-Junghyun Lee, **Kyoungseok Jang**, Kwang-Sung Jun, Milan Vojnovic, Se-Young Yun
-
-&nbsp;
-
-#### Rate-optimal Design for Anytime Best Arm Identification
-
-Junpei Komiyama, **Kyoungseok Jang**, Honda Junya
+[link](https://arxiv.org/abs/2508.18741)
 
 &nbsp;
 
-#### Sparse Linear Bandits with Fixed Sparsity Support: Adversarial and Stochastic Regimes
+#### Globally Convergent Offline Reinforcement Learning\\ with Bellman Residual Minimization
 
-**Kyoungseok Jang**, Nam Tran, Nicolò Cesa-Bianchi
+Byungjun Park, Minhyeok Park, Enoch H Kang, **Kyoungseok Jang**
 
 &nbsp;
 
