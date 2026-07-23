@@ -134,12 +134,17 @@ main.container-fluid {
 }
 
 .home-card {
-  padding: 1.6rem;
+  position: relative;
+  display: block;
+  min-width: 0;
+  padding: 1.7rem;
 
-  background: #ffffff;
-  border: 1px solid #e1e7ef;
-  border-radius: 16px;
-  box-shadow: 0 7px 22px rgba(15, 23, 42, 0.06);
+  background: #f8fbfe;
+  border: 1px solid #cbd9e5;
+  border-top: 5px solid #2563a6;
+  border-radius: 14px;
+
+  box-shadow: 0 8px 22px rgba(15, 23, 42, 0.1);
 }
 
 .home-card-wide {
@@ -153,11 +158,71 @@ main.container-fluid {
 
   margin-top: 0;
   margin-bottom: 1.2rem;
+
+  color: #213547;
   font-size: 1.3rem;
 }
 
 .home-card h3 i {
   color: #2563a6;
+}
+
+a.home-card {
+  padding-right: 4rem;
+
+  color: #404040 !important;
+  text-decoration: none !important;
+  cursor: pointer;
+
+  transition:
+    transform 0.18s ease,
+    box-shadow 0.18s ease,
+    border-color 0.18s ease,
+    background 0.18s ease;
+}
+
+a.home-card::after {
+  content: "→";
+
+  position: absolute;
+  right: 1.5rem;
+  top: 50%;
+  transform: translateY(-50%);
+
+  color: #2563a6;
+  font-size: 1.8rem;
+  font-weight: 700;
+
+  transition: right 0.18s ease;
+}
+
+a.home-card:hover {
+  transform: translateY(-4px);
+
+  background: #edf6fc;
+  border-color: #7fa7c8;
+
+  box-shadow: 0 13px 28px rgba(15, 23, 42, 0.16);
+}
+
+a.home-card:hover::after {
+  right: 1.25rem;
+}
+
+.home-link-card {
+  min-height: 150px;
+
+  background: #eef6fc;
+  border: 2px solid #b8cfe1;
+  border-top: 5px solid #2563a6;
+}
+
+.home-link-card h3 {
+  color: #174a79;
+}
+
+.home-link-card p {
+  max-width: 85%;
 }
 
 .home-entry {
@@ -193,24 +258,31 @@ main.container-fluid {
 ======================================== */
 
 .research-tags {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.65rem;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.8rem;
 }
 
 .research-tag {
-  display: inline-block;
-  padding: 0.55rem 0.85rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  width: 100%;
+  min-height: 52px;
+  padding: 0.75rem 0.8rem;
 
   background: #edf5fc;
   color: #174a79;
 
-  border: 1px solid #d2e3f2;
-  border-radius: 999px;
+  border: 1px solid #bfd4e5;
+  border-radius: 10px;
 
   font-family: "Open Sans", sans-serif;
-  font-size: 0.88rem;
+  font-size: 0.9rem;
   font-weight: 600;
+  line-height: 1.35;
+  text-align: center;
 }
 
 
@@ -266,6 +338,17 @@ main.container-fluid {
 
 
 /* ========================================
+   Tablet
+======================================== */
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .research-tags {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+
+/* ========================================
    Mobile
 ======================================== */
 
@@ -298,5 +381,9 @@ main.container-fluid {
 
   .home-card-wide {
     grid-column: auto;
+  }
+
+  .research-tags {
+    grid-template-columns: 1fr;
   }
 }
