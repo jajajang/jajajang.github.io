@@ -26,10 +26,10 @@ full-width: true
 
 <div class="people-grid">
   <article class="person-card">
-    <div class="person-avatar">BP</div>
+    <img class="person-photo" src="{{ '/assets/img/student-placeholder.png' | relative_url }}" alt="Photo placeholder for Byungjun Park">
     <div class="person-content">
-      <span class="person-period">Mar. 2025–Present</span>
       <h3>Byungjun Park</h3>
+      <span class="person-period">Mar. 2025–Present</span>
       <p>Multi-Agent Reinforcement Learning · Offline Reinforcement Learning</p>
     </div>
   </article>
@@ -41,58 +41,58 @@ full-width: true
 
 <div class="people-grid">
   <article class="person-card">
-    <div class="person-avatar">MP</div>
+    <img class="person-photo" src="{{ '/assets/img/student-placeholder.png' | relative_url }}" alt="Photo placeholder for Minhyeok Park">
     <div class="person-content">
-      <span class="person-period">Mar. 2025–Present</span>
       <h3>Minhyeok Park</h3>
+      <span class="person-period">Mar. 2025–Present</span>
       <p>Offline Reinforcement Learning</p>
     </div>
   </article>
   <article class="person-card">
-    <div class="person-avatar">YK</div>
+    <img class="person-photo" src="{{ '/assets/img/student-placeholder.png' | relative_url }}" alt="Photo placeholder for Yeongjae Kim">
     <div class="person-content">
-      <span class="person-period">Sep. 2025–Present</span>
       <h3>Yeongjae Kim</h3>
+      <span class="person-period">Sep. 2025–Present</span>
       <p>Bandits · Online Learning</p>
     </div>
   </article>
   <article class="person-card">
-    <div class="person-avatar">SS</div>
+    <img class="person-photo" src="{{ '/assets/img/student-placeholder.png' | relative_url }}" alt="Photo placeholder for Seokjin Seo">
     <div class="person-content">
-      <span class="person-period">Sep. 2025–Present</span>
       <h3>Seokjin Seo</h3>
+      <span class="person-period">Sep. 2025–Present</span>
       <p>Reinforcement Learning in Finance</p>
     </div>
   </article>
   <article class="person-card">
-    <div class="person-avatar">SR</div>
+    <img class="person-photo" src="{{ '/assets/img/student-placeholder.png' | relative_url }}" alt="Photo placeholder for Seungwon Ryu">
     <div class="person-content">
-      <span class="person-period">Dec. 2025–Present</span>
       <h3>Seungwon Ryu</h3>
+      <span class="person-period">Dec. 2025–Present</span>
       <p>Reinforcement Learning</p>
     </div>
   </article>
   <article class="person-card">
-    <div class="person-avatar">JL</div>
+    <img class="person-photo" src="{{ '/assets/img/student-placeholder.png' | relative_url }}" alt="Photo placeholder for Jaeseok Lee">
     <div class="person-content">
-      <span class="person-period">Mar. 2026–Present</span>
       <h3>Jaeseok Lee</h3>
+      <span class="person-period">Mar. 2026–Present</span>
       <p>Financial Machine Learning</p>
     </div>
   </article>
   <article class="person-card">
-    <div class="person-avatar">YC</div>
+    <img class="person-photo" src="{{ '/assets/img/student-placeholder.png' | relative_url }}" alt="Photo placeholder for Yoocheong Choi">
     <div class="person-content">
-      <span class="person-period">Mar. 2026–Present</span>
       <h3>Yoocheong Choi</h3>
+      <span class="person-period">Mar. 2026–Present</span>
       <p>Reinforcement Learning</p>
     </div>
   </article>
   <article class="person-card">
-    <div class="person-avatar">EJ</div>
+    <img class="person-photo" src="{{ '/assets/img/student-placeholder.png' | relative_url }}" alt="Photo placeholder for Euiyeon Jeong">
     <div class="person-content">
-      <span class="person-period">Sep. 2026–Present</span>
       <h3>Euiyeon Jeong</h3>
+      <span class="person-period">Sep. 2026–Present</span>
       <p>Reinforcement Learning</p>
     </div>
   </article>

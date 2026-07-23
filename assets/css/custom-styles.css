@@ -485,45 +485,52 @@ a.home-card:hover::after {
 
 .people-grid {
   display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 1rem;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 1.15rem;
 }
 
 .person-card {
-  display: grid;
-  grid-template-columns: 70px minmax(0, 1fr);
-  gap: 1rem;
-  align-items: center;
+  display: flex;
+  flex-direction: column;
   min-width: 0;
-  padding: 1.3rem;
+  overflow: hidden;
+  padding: 0;
   background: #fff;
   border: 1px solid #cbd9e5;
-  border-radius: 14px;
+  border-radius: 16px;
   box-shadow: 0 7px 20px rgba(15, 23, 42, 0.07);
 }
 
-.person-avatar {
+.person-photo {
+  display: block;
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  object-position: center;
+  border-bottom: 1px solid #cbd9e5;
+}
+
+.person-content {
   display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 64px;
-  height: 64px;
-  background: linear-gradient(135deg, #2563a6, #4e91ca);
-  color: #fff;
-  border-radius: 16px;
-  font-family: "Open Sans", sans-serif;
-  font-weight: 800;
+  flex: 1;
+  flex-direction: column;
+  padding: 1rem 1.05rem 1.15rem;
 }
 
 .person-content h3 {
-  margin: 0 0 0.35rem;
+  margin: 0 0 0.45rem;
   font-size: 1.15rem;
 }
 
 .person-content p {
-  margin: 0;
+  display: -webkit-box;
+  min-height: 3em;
+  margin: 0.35rem 0 0;
+  overflow: hidden;
   color: #65717e;
   line-height: 1.5;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
 }
 
 .empty-state {
@@ -612,6 +619,10 @@ a.home-card:hover::after {
   .research-tags {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
+
+  .people-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
 }
 
 
@@ -672,12 +683,4 @@ a.home-card:hover::after {
     font-size: 1.5rem;
   }
 
-  .person-card {
-    grid-template-columns: 58px minmax(0, 1fr);
-  }
-
-  .person-avatar {
-    width: 54px;
-    height: 54px;
-  }
 }
