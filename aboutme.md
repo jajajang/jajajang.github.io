@@ -1,54 +1,105 @@
 ---
 layout: page
-title: About me
-subtitle: Machine Learning Researcher
+title: About Me
+subtitle: Mathematical Foundations of Machine Learning
+full-width: true
 ---
 
-# Intro
+<section class="page-intro">
+  <div class="page-intro-icon"><i class="fas fa-user"></i></div>
+  <div>
+    <div class="home-kicker">Researcher · Educator · Advisor</div>
+    <h2>About Me</h2>
+    <p>
+      I am an Assistant Professor in the Department of Artificial Intelligence
+      at Chung-Ang University. My work focuses on the mathematical and
+      statistical foundations of machine learning.
+    </p>
+    <p>
+      Before joining Chung-Ang University, I was a postdoctoral researcher at
+      the University of Milan, New York University, and the University of
+      Arizona. I received my Ph.D. in Mathematical Sciences from KAIST under
+      the supervision of Prof. Wanmo Kang.
+    </p>
+  </div>
+</section>
 
-I am an assistant professor working at Chung-Ang University. Before this, I did my postdoc with Prof. Nicolò Cesa-Bianchi at Università degil Studi di Milano, Prof. Komiyama Junpei at NYU, and Prof. Kwang-Sung Jun at the University of Arizona. I got my Ph.D. in the Department of Mathematical Science at KAIST (Korea Advanced Institute of Science and Technology) with the advisor Wanmo Kang.
+<div class="detail-grid">
+  <section class="detail-card detail-card-wide">
+    <h2><i class="fas fa-flask"></i> Research Interests</h2>
+    <div class="research-tags">
+      <span class="research-tag">Multi-Armed Bandits</span>
+      <span class="research-tag">High-Dimensional Bandits</span>
+      <span class="research-tag">Best-Arm Identification</span>
+      <span class="research-tag">Reinforcement Learning</span>
+      <span class="research-tag">PAC-Bayes Bounds</span>
+      <span class="research-tag">High-Dimensional Statistics</span>
+    </div>
+  </section>
 
-My research interests lie in the statistical learning problems. More specifically, my research has been focused on 
-* Bandit problems (currently my main interest)
-  - High-dimensional bandits (sparse, bilinear, etc.)
-  - Best arm identification
-* Generalization bounds (PAC-Bayes bound)
-* Other probabilistic tools (Stochastic PDE, Random Matrix Theory, etc......)
+  <section class="detail-card">
+    <h2><i class="fas fa-square-root-alt"></i> Mathematical Skills</h2>
+    <ul class="clean-list">
+      <li>Probability and Statistics</li>
+      <li>Concentration Inequalities</li>
+      <li>High-Dimensional Analysis</li>
+      <li>Generalization Bounds</li>
+    </ul>
+  </section>
 
-&nbsp;
+  <section class="detail-card">
+    <h2><i class="fas fa-code"></i> Technical Skills</h2>
+    <div class="skill-pills">
+      <span>Python</span>
+      <span>PyTorch</span>
+      <span>MATLAB</span>
+    </div>
+  </section>
 
-&nbsp;
+  <section class="detail-card">
+    <h2><i class="fas fa-graduation-cap"></i> Education</h2>
+    <div class="timeline">
+      <div class="timeline-item">
+        <span class="timeline-period">2015–2022</span>
+        <strong>Integrated M.S. & Ph.D. in Mathematical Sciences</strong>
+        <p>KAIST · Advisor: Prof. Wanmo Kang</p>
+      </div>
+      <div class="timeline-item">
+        <span class="timeline-period">2011–2015</span>
+        <strong>B.S. in Mathematical Sciences</strong>
+        <p>KAIST · Minor in Computer Science</p>
+      </div>
+      <div class="timeline-item">
+        <span class="timeline-period">2008–2011</span>
+        <strong>Korea Science Academy</strong>
+        <p>Busan, Korea</p>
+      </div>
+    </div>
+  </section>
 
-# Skills
-
-* Mathematical Analysis
-  - General Probability and Statistics
-  - Concentration Inequalities
-  - High-dimensional Analysis
-  - Generalization bounds
-* Coding
-  - Python, Pytorch
-  - MATLAB
-
-&nbsp;
-
-&nbsp;
-
-# Educations
-
-* Integrated Master's & Ph.D. Program in Mathematical Science, KAIST, Daejeon, Korea (advisor: Prof. Wanmo Kang)
-* Bachelor's degree in Mathematical Science & Computer Science (minor), KAIST, Daejeon, Korea (2015)
-* Korea Science Academy, Busan, Korea (2008)
-
-&nbsp;
-
-&nbsp;
-
-# Work Experience
-
-* 25/03 - present: Assistant Professor at Chung-Ang University
-* 24/03 - 25/02: Postdoctoral Researcher at Università Degli Studi di Milano (Advisor: Nicolò Cesa-Bianchi)
-* 23/08 - 24/02: Postdoctoral Researcher at NYU Stern (Advisor: Junpei Komiyama)
-* 23/01 - 23/05: Instructor of 'Principle of Data Science' at Univ. of Arizona (CSC380)
-* 22/03 - 23/07: Postdoctoral Researcher at the University of Arizona (Advisor: Kwang-Sung Jun)
-* 17/07: KAKAO brain intern
+  <section class="detail-card">
+    <h2><i class="fas fa-briefcase"></i> Work Experience</h2>
+    <div class="timeline">
+      <div class="timeline-item">
+        <span class="timeline-period">Mar. 2025–Present</span>
+        <strong>Assistant Professor</strong>
+        <p>Chung-Ang University</p>
+      </div>
+      <div class="timeline-item">
+        <span class="timeline-period">Mar. 2024–Feb. 2025</span>
+        <strong>Postdoctoral Researcher</strong>
+        <p>University of Milan · Nicolò Cesa-Bianchi</p>
+      </div>
+      <div class="timeline-item">
+        <span class="timeline-period">Aug. 2023–Feb. 2024</span>
+        <strong>Postdoctoral Researcher</strong>
+        <p>NYU Stern · Junpei Komiyama</p>
+      </div>
+      <div class="timeline-item">
+        <span class="timeline-period">Mar. 2022–Jul. 2023</span>
+        <strong>Postdoctoral Researcher</strong>
+        <p>University of Arizona · Kwang-Sung Jun</p>
+      </div>
+    </div>
+  </section>
+</div>
