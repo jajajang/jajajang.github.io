@@ -298,6 +298,29 @@ a.home-card:hover::after {
   text-align: center;
 }
 
+.skills-list {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 0.75rem;
+}
+
+.skills-list span {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 48px;
+  padding: 0.65rem 0.75rem;
+  background: #edf5fc;
+  color: #174a79;
+  border: 1px solid #bfd4e5;
+  border-radius: 10px;
+  font-family: "Open Sans", sans-serif;
+  font-size: 0.86rem;
+  font-weight: 700;
+  line-height: 1.35;
+  text-align: center;
+}
+
 
 /* ========================================
    Section headings
@@ -919,6 +942,10 @@ a.home-card:hover::after {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
+  .skills-list {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
   .people-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
@@ -975,6 +1002,10 @@ a.home-card:hover::after {
 
   .research-tags {
     grid-template-columns: 1fr;
+  }
+
+  .skills-list {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
   .detail-card-wide {

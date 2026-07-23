@@ -20,7 +20,7 @@ author: Kyoungseok Jang
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "/"
   Group: "group"
   Publications : "publication"
   Academic Services: "academic_service"
