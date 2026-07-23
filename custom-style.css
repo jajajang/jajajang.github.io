@@ -1,0 +1,302 @@
+/* ========================================
+   Global width
+======================================== */
+
+main.container-fluid {
+  width: 100%;
+  max-width: 1180px;
+  margin: 0 auto;
+  padding-left: 24px;
+  padding-right: 24px;
+}
+
+/* Group이나 Publications에도 full-width: true를 넣으면
+   동일한 최대 폭이 적용됩니다. */
+
+
+/* ========================================
+   Homepage profile section
+======================================== */
+
+.home-profile {
+  display: grid;
+  grid-template-columns: 210px minmax(0, 1fr);
+  gap: 2.5rem;
+  align-items: center;
+
+  margin: 1.5rem 0 2.5rem;
+  padding: 2.25rem;
+
+  background:
+    linear-gradient(
+      135deg,
+      rgba(239, 246, 255, 0.95),
+      rgba(248, 250, 252, 0.95)
+    );
+
+  border: 1px solid #dbe4ee;
+  border-radius: 20px;
+  box-shadow: 0 12px 35px rgba(15, 23, 42, 0.08);
+}
+
+.home-profile-photo {
+  width: 190px;
+  height: 190px;
+  object-fit: cover;
+  display: block;
+  margin: 0 auto;
+
+  border-radius: 50%;
+  border: 5px solid #ffffff;
+  box-shadow: 0 8px 24px rgba(15, 23, 42, 0.16);
+}
+
+.home-kicker {
+  margin: 0 0 0.5rem;
+  color: #2563a6;
+  font-family: "Open Sans", sans-serif;
+  font-size: 0.85rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.home-profile h2 {
+  margin: 0 0 1rem;
+  font-size: 2rem;
+}
+
+.home-profile p {
+  margin: 0 0 1rem;
+  line-height: 1.7;
+}
+
+
+/* ========================================
+   Buttons
+======================================== */
+
+.home-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-top: 1.25rem;
+}
+
+.home-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+
+  padding: 0.7rem 1.1rem;
+  border-radius: 9px;
+
+  background: #2563a6;
+  color: #ffffff !important;
+
+  font-family: "Open Sans", sans-serif;
+  font-size: 0.9rem;
+  font-weight: 700;
+  text-decoration: none !important;
+
+  transition:
+    transform 0.15s ease,
+    box-shadow 0.15s ease,
+    background 0.15s ease;
+}
+
+.home-button:hover {
+  transform: translateY(-2px);
+  background: #174a79;
+  box-shadow: 0 7px 18px rgba(37, 99, 166, 0.25);
+}
+
+.home-button.secondary {
+  background: #ffffff;
+  color: #2563a6 !important;
+  border: 1px solid #b8cbe0;
+}
+
+.home-button.secondary:hover {
+  background: #f1f6fb;
+}
+
+
+/* ========================================
+   Information cards
+======================================== */
+
+.home-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.25rem;
+  margin: 2rem 0;
+}
+
+.home-card {
+  padding: 1.6rem;
+
+  background: #ffffff;
+  border: 1px solid #e1e7ef;
+  border-radius: 16px;
+  box-shadow: 0 7px 22px rgba(15, 23, 42, 0.06);
+}
+
+.home-card-wide {
+  grid-column: 1 / -1;
+}
+
+.home-card h3 {
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+
+  margin-top: 0;
+  margin-bottom: 1.2rem;
+  font-size: 1.3rem;
+}
+
+.home-card h3 i {
+  color: #2563a6;
+}
+
+.home-entry {
+  padding: 0.9rem 0;
+  border-bottom: 1px solid #edf0f4;
+}
+
+.home-entry:first-of-type {
+  padding-top: 0;
+}
+
+.home-entry:last-child {
+  padding-bottom: 0;
+  border-bottom: 0;
+}
+
+.home-entry strong {
+  display: block;
+  font-family: "Open Sans", sans-serif;
+  font-size: 1rem;
+}
+
+.home-entry span {
+  display: block;
+  margin-top: 0.25rem;
+  color: #65717e;
+  font-size: 0.9rem;
+}
+
+
+/* ========================================
+   Research-interest tags
+======================================== */
+
+.research-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+}
+
+.research-tag {
+  display: inline-block;
+  padding: 0.55rem 0.85rem;
+
+  background: #edf5fc;
+  color: #174a79;
+
+  border: 1px solid #d2e3f2;
+  border-radius: 999px;
+
+  font-family: "Open Sans", sans-serif;
+  font-size: 0.88rem;
+  font-weight: 600;
+}
+
+
+/* ========================================
+   Section headings
+======================================== */
+
+.home-section-title {
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+
+  margin-top: 3rem;
+  padding-bottom: 0.7rem;
+
+  border-bottom: 2px solid #e5eaf0;
+  font-size: 1.65rem;
+}
+
+.home-section-title i {
+  color: #2563a6;
+}
+
+
+/* ========================================
+   Existing news posts
+======================================== */
+
+.posts-list {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.25rem;
+}
+
+.post-preview {
+  height: 100%;
+  padding: 1.5rem !important;
+
+  background: #ffffff;
+  border: 1px solid #e1e7ef !important;
+  border-radius: 15px;
+
+  box-shadow: 0 7px 22px rgba(15, 23, 42, 0.06);
+}
+
+.post-preview:last-child {
+  border-bottom: 1px solid #e1e7ef !important;
+}
+
+.post-preview .post-title {
+  font-size: 1.35rem;
+}
+
+
+/* ========================================
+   Mobile
+======================================== */
+
+@media (max-width: 767px) {
+  main.container-fluid {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+
+  .home-profile {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+    padding: 1.5rem;
+    text-align: center;
+  }
+
+  .home-profile-photo {
+    width: 155px;
+    height: 155px;
+  }
+
+  .home-actions {
+    justify-content: center;
+  }
+
+  .home-grid,
+  .posts-list {
+    grid-template-columns: 1fr;
+  }
+
+  .home-card-wide {
+    grid-column: auto;
+  }
+}
