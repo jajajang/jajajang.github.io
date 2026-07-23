@@ -2,6 +2,7 @@
 layout: page
 title: SnRL Lab
 subtitle: Statistical Learning & Reinforcement Learning Lab
+full-width: true
 ---
 
 
