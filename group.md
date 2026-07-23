@@ -14,7 +14,7 @@ full-width: true
       We welcome students interested in statistical learning, reinforcement
       learning, online learning, and their mathematical foundations.
     </p>
-    <a class="home-button" href="mailto:ksjang@cau.ac.kr">
+    <a class="home-button" href="{{ '/contacts' | relative_url }}">
       <i class="fas fa-envelope"></i> Contact Prof. Jang
     </a>
   </div>

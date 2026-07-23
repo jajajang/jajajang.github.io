@@ -797,6 +797,107 @@ a.home-card:hover::after {
   font-size: 0.9rem;
 }
 
+/* ========================================
+   Contacts
+======================================== */
+
+.contact-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.2rem;
+  margin-bottom: 1.5rem;
+}
+
+.contact-card {
+  position: relative;
+  padding: 1.6rem;
+  background: #f8fbfe;
+  border: 1px solid #cbd9e5;
+  border-top: 5px solid #2563a6;
+  border-radius: 14px;
+  box-shadow: 0 8px 22px rgba(15, 23, 42, 0.08);
+}
+
+.contact-card-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 46px;
+  height: 46px;
+  margin-bottom: 1rem;
+  background: #e1eef8;
+  color: #2563a6;
+  border-radius: 12px;
+}
+
+.contact-card h2 {
+  margin: 0 0 0.45rem;
+  color: #213547;
+  font-size: 1.25rem;
+}
+
+.contact-card p {
+  margin: 0 0 1rem;
+  color: #65717e;
+}
+
+.contact-link {
+  color: #2563a6 !important;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 800;
+  text-decoration: none !important;
+}
+
+.contact-link:hover {
+  color: #174a79 !important;
+}
+
+.office-card {
+  display: grid;
+  grid-template-columns: minmax(280px, 0.85fr) minmax(0, 1.4fr);
+  overflow: hidden;
+  background: #fff;
+  border: 1px solid #cbd9e5;
+  border-radius: 16px;
+  box-shadow: 0 10px 26px rgba(15, 23, 42, 0.09);
+}
+
+.office-details {
+  padding: 2rem;
+}
+
+.office-details h2 {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  margin: 0 0 1rem;
+  color: #213547;
+  font-size: 1.35rem;
+}
+
+.office-details h2 i {
+  color: #2563a6;
+}
+
+.office-details p {
+  margin-bottom: 1.4rem;
+  color: #586675;
+  line-height: 1.75;
+}
+
+.office-map {
+  min-height: 330px;
+  background: #e8eef4;
+}
+
+.office-map iframe {
+  display: block;
+  width: 100%;
+  height: 100%;
+  min-height: 330px;
+  border: 0;
+}
+
 
 /* ========================================
    Tablet
@@ -813,6 +914,10 @@ a.home-card:hover::after {
 
   .course-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .office-card {
+    grid-template-columns: 1fr;
   }
 }
 
@@ -848,7 +953,8 @@ a.home-card:hover::after {
   .detail-grid,
   .people-grid,
   .publication-list,
-  .course-grid {
+  .course-grid,
+  .contact-grid {
     grid-template-columns: 1fr;
   }
 
@@ -881,5 +987,18 @@ a.home-card:hover::after {
 
   .talk-list article {
     grid-template-columns: 74px minmax(0, 1fr);
+  }
+
+  .office-card {
+    grid-template-columns: 1fr;
+  }
+
+  .office-details {
+    padding: 1.5rem;
+  }
+
+  .office-map,
+  .office-map iframe {
+    min-height: 280px;
   }
 }

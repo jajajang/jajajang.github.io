@@ -1,15 +1,9 @@
 ---
 layout: post
-title: Four papers have been accepted this year! (AAAI, AISTATS)
+title: Three papers have been accepted at AISTATS 2026!
 comments: true
 ---
-I’m thrilled to share that two of my papers have been accepted (or presented) this year!
-
-
-### (AAAI 2026) Online Linear Regression with Paid Stochastic Features
-   
-* Authors: Nadav Merlis, **Kyoungseok Jang**, Nicolò Cesa-Bianchi
-* Link: https://arxiv.org/abs/2511.08073
+I’m thrilled to share that three of my papers have been accepted at AISTATS 2026!
 
 ### (AISTATS 2026) Sparse Linear Bandits with Fixed Sparsity Support: Adversarial and Stochastic Regimes
 
