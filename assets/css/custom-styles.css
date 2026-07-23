@@ -610,6 +610,180 @@ a.home-card:hover::after {
   color: #174a79 !important;
 }
 
+.workshop-paper-list {
+  display: grid;
+  gap: 0;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.workshop-paper-list li {
+  display: grid;
+  grid-template-columns: 62px minmax(0, 1fr);
+  gap: 1rem;
+  padding: 1.1rem 0;
+  border-bottom: 1px solid #e1e7ef;
+}
+
+.workshop-paper-list li:first-child {
+  padding-top: 0;
+}
+
+.workshop-paper-list li:last-child {
+  border-bottom: 0;
+}
+
+.workshop-year {
+  color: #2563a6;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 800;
+}
+
+.workshop-paper-list p {
+  margin: 0.35rem 0 0.2rem;
+  color: #586675;
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+
+.workshop-paper-list small {
+  color: #65717e;
+  font-style: italic;
+}
+
+/* ========================================
+   Academic services
+======================================== */
+
+.reviewer-table-wrap {
+  padding: 1.1rem 1.4rem;
+  background: #f8fbfe;
+  border-radius: 14px;
+}
+
+.reviewer-table {
+  width: 100%;
+  margin: 0;
+  border: 0;
+  border-collapse: collapse;
+}
+
+.reviewer-table tr,
+.reviewer-table th,
+.reviewer-table td {
+  border: 0 !important;
+}
+
+.reviewer-table th,
+.reviewer-table td {
+  padding: 0.65rem 0.4rem;
+  background: transparent !important;
+  vertical-align: top;
+}
+
+.reviewer-table th {
+  width: 210px;
+  color: #213547;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 800;
+}
+
+.reviewer-table td {
+  color: #586675;
+}
+
+.course-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1rem;
+}
+
+.course-card {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  padding: 1.35rem;
+  background: #fff;
+  border: 1px solid #cbd9e5;
+  border-top: 5px solid #2563a6;
+  border-radius: 14px;
+  box-shadow: 0 7px 20px rgba(15, 23, 42, 0.07);
+}
+
+.course-period {
+  margin-bottom: 0.55rem;
+  color: #2563a6;
+  font-family: "Open Sans", sans-serif;
+  font-size: 0.78rem;
+  font-weight: 800;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+
+.course-card h3 {
+  margin: 0 0 0.5rem;
+  color: #213547;
+  font-size: 1.08rem;
+  line-height: 1.4;
+}
+
+.course-card p {
+  margin: 0 0 0.5rem;
+  color: #65717e;
+}
+
+.misc-service-list {
+  display: grid;
+  gap: 0.9rem;
+}
+
+.misc-service-list p {
+  margin: 0;
+  padding: 1rem 1.15rem;
+  background: #f8fbfe;
+  border-left: 4px solid #2563a6;
+  border-radius: 0 10px 10px 0;
+  line-height: 1.65;
+}
+
+.talk-list {
+  display: grid;
+  gap: 0;
+}
+
+.talk-list article {
+  display: grid;
+  grid-template-columns: 92px minmax(0, 1fr);
+  gap: 1rem;
+  padding: 1rem 0;
+  border-bottom: 1px solid #e1e7ef;
+}
+
+.talk-list article:last-child {
+  border-bottom: 0;
+}
+
+.talk-list article > span {
+  color: #2563a6;
+  font-family: "Open Sans", sans-serif;
+  font-size: 0.82rem;
+  font-weight: 800;
+}
+
+.talk-list h3 {
+  margin: 0 0 0.25rem;
+  color: #213547;
+  font-size: 1rem;
+  line-height: 1.4;
+}
+
+.talk-list p {
+  margin: 0;
+  color: #65717e;
+  font-size: 0.9rem;
+}
+
 
 /* ========================================
    Tablet
@@ -621,6 +795,10 @@ a.home-card:hover::after {
   }
 
   .people-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .course-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 }
@@ -656,7 +834,8 @@ a.home-card:hover::after {
   .posts-list,
   .detail-grid,
   .people-grid,
-  .publication-list {
+  .publication-list,
+  .course-grid {
     grid-template-columns: 1fr;
   }
 
@@ -683,4 +862,11 @@ a.home-card:hover::after {
     font-size: 1.5rem;
   }
 
+  .reviewer-table th {
+    width: 105px;
+  }
+
+  .talk-list article {
+    grid-template-columns: 74px minmax(0, 1fr);
+  }
 }

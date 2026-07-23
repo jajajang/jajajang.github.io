@@ -126,17 +126,45 @@ full-width: true
 
 <h2 class="home-section-title"><i class="fas fa-chalkboard-teacher"></i> Workshop Papers</h2>
 
-<div class="publication-list">
-  <article class="publication-card">
-    <div class="publication-meta"><span>RL Theory Workshop</span><span>2024</span></div>
-    <h3>Fixed Confidence Best Arm Identification in the Bayesian Setting</h3>
-    <p class="publication-authors"><strong>Kyoungseok Jang</strong>, Junpei Komiyama, Kazutoshi Yamazaki</p>
-    <p class="publication-venue">Second RL Theory Workshop, co-located with COLT 2024 · Poster</p>
-  </article>
-  <article class="publication-card">
-    <div class="publication-meta"><span>ICML Workshop</span><span>2023</span></div>
-    <h3>Improved Time-Uniform PAC-Bayes Bounds using Coin Betting</h3>
-    <p class="publication-authors"><strong>Kyoungseok Jang</strong>, Kwang-Sung Jun, Ilja Kuzborskij, Francesco Orabona</p>
-    <p class="publication-venue">PAC-Bayes Meets Interactive Learning · Contributed Talk</p>
-  </article>
-</div>
+<ul class="workshop-paper-list">
+  <li>
+    <span class="workshop-year">2026</span>
+    <div>
+      <strong>Efficient Algorithms for Contextual Apple Tasting with Log-Loss</strong>
+      <p>Byeongwoo An, Kapilan Balagopalan, Hyowon Wi, Sehwa Jeong, Jiun Jeong, <b>Kyoungseok Jang</b>, Noseong Park, Gi-Soo Kim, Kwang-Sung Jun</p>
+      <small>ICML Workshop on Decision-Making from Offline Datasets to Online Adaptation</small>
+    </div>
+  </li>
+  <li>
+    <span class="workshop-year">2026</span>
+    <div>
+      <strong>Globally Convergent Offline Reinforcement Learning with Smoothed Bellman Residual Minimization</strong>
+      <p>Byungjun Park, Minhyeok Park, Enoch Hyunwook Kang, <b>Kyoungseok Jang</b></p>
+      <small>ICML Workshop on Decision-Making from Offline Datasets to Online Adaptation · Poster</small>
+    </div>
+  </li>
+  <li>
+    <span class="workshop-year">2026</span>
+    <div>
+      <strong>Statistical Complexity of Soft Bellman Residual Minimization</strong>
+      <p>Enoch Hyunwook Kang, <b>Kyoungseok Jang</b></p>
+      <small>ICML Workshop on Decision-Making from Offline Datasets to Online Adaptation · Poster</small>
+    </div>
+  </li>
+  <li>
+    <span class="workshop-year">2024</span>
+    <div>
+      <strong>Fixed Confidence Best-Arm Identification in the Bayesian Setting</strong>
+      <p><b>Kyoungseok Jang</b>, Junpei Komiyama, Kazutoshi Yamazaki</p>
+      <small>Second RL Theory Workshop, co-located with COLT 2024 · Poster</small>
+    </div>
+  </li>
+  <li>
+    <span class="workshop-year">2023</span>
+    <div>
+      <strong>Improved Time-Uniform PAC-Bayes Bounds using Coin Betting</strong>
+      <p><b>Kyoungseok Jang</b>, Kwang-Sung Jun, Ilja Kuzborskij, Francesco Orabona</p>
+      <small>ICML Workshop: PAC-Bayes Meets Interactive Learning · Contributed Talk and Poster</small>
+    </div>
+  </li>
+</ul>

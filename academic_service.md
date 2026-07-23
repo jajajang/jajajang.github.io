@@ -68,6 +68,88 @@ full-width: true
   </article>
 </div>
 
+<h2 class="home-section-title"><i class="fas fa-microphone-alt"></i> Talks</h2>
+
+<div class="talk-list">
+  <article>
+    <span>Jul. 2026</span>
+    <div>
+      <h3>진짜 AI란 무엇인가</h3>
+      <p>Janghoon High School · Seoul, Korea</p>
+    </div>
+  </article>
+  <article>
+    <span>2026</span>
+    <div>
+      <h3>Introduction to AI and Its Applications in Construction</h3>
+      <p>ICPMP Presentation, Seoul National University · Seoul, Korea</p>
+    </div>
+  </article>
+  <article>
+    <span>2025</span>
+    <div>
+      <h3>Exploring Exploration Strategies in Reinforcement Learning</h3>
+      <p>Workshop on Online Learning and Optimization · Tokyo, Japan</p>
+    </div>
+  </article>
+  <article>
+    <span>2025</span>
+    <div>
+      <h3>Exploring Exploration Strategies in Reinforcement Learning</h3>
+      <p>KAIST SAARC Presentation · Daejeon, Korea</p>
+    </div>
+  </article>
+  <article>
+    <span>2024</span>
+    <div>
+      <h3>Sparsity-Agnostic Linear Bandits with Adaptive Adversaries</h3>
+      <p>ELLIS Milan Pre-NeurIPS Fest · Milan, Italy</p>
+    </div>
+  </article>
+  <article>
+    <span>2024</span>
+    <div>
+      <h3>Exploring Exploration Strategies in Reinforcement Learning</h3>
+      <p>POSTECH GSAI/CSE Special Seminar · Virtual</p>
+    </div>
+  </article>
+  <article>
+    <span>2023</span>
+    <div>
+      <h3>Improved Time-Uniform PAC-Bayes Bounds using Coin Betting</h3>
+      <p>ICML Workshop: PAC-Bayes Meets Interactive Learning · Contributed Talk</p>
+    </div>
+  </article>
+  <article>
+    <span>2022</span>
+    <div>
+      <h3>PopArt: Efficient Sparse Regression and Experimental Design for Optimal Sparse Linear Bandits</h3>
+      <p>NeurIPS Spotlight Presentation · New Orleans, U.S.</p>
+    </div>
+  </article>
+  <article>
+    <span>2021</span>
+    <div>
+      <h3>Improved Regret Bounds of Bilinear Bandits using Action Space Analysis</h3>
+      <p>ICML Spotlight Presentation · Virtual</p>
+    </div>
+  </article>
+  <article>
+    <span>2021</span>
+    <div>
+      <h3>Improved Regret Bounds of Bilinear Bandits using Action Space Analysis</h3>
+      <p>Korea AI Association Best Paper Session · Daejeon, Korea</p>
+    </div>
+  </article>
+  <article>
+    <span>2019</span>
+    <div>
+      <h3>Hyperbolic Variational Autoencoder</h3>
+      <p>Center for SuperIntelligence Workshop · Pangyo, Korea</p>
+    </div>
+  </article>
+</div>
+
 <h2 class="home-section-title"><i class="fas fa-ellipsis-h"></i> Miscellaneous</h2>
 
 <div class="misc-service-list">
