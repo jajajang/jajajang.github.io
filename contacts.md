@@ -22,18 +22,18 @@ full-width: true
     <div class="contact-card-icon"><i class="fas fa-university"></i></div>
     <h2>University Email</h2>
     <p>For research, teaching, and student inquiries.</p>
-    <a class="contact-link" href="mailto:ksjang@cau.ac.kr">
-      ksjang@cau.ac.kr <span>→</span>
-    </a>
+    <div class="contact-address">
+      ksjang <span>[at]</span> cau <span>[dot]</span> ac <span>[dot]</span> kr
+    </div>
   </section>
 
   <section class="contact-card">
     <div class="contact-card-icon"><i class="fas fa-envelope"></i></div>
     <h2>Personal Email</h2>
     <p>For general correspondence.</p>
-    <a class="contact-link" href="mailto:ksajks@gmail.com">
-      ksajks@gmail.com <span>→</span>
-    </a>
+    <div class="contact-address">
+      ksajks <span>[at]</span> gmail <span>[dot]</span> com
+    </div>
   </section>
 </div>
 

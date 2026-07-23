@@ -851,15 +851,16 @@ a.home-card:hover::after {
   color: #65717e;
 }
 
-.contact-link {
-  color: #2563a6 !important;
+.contact-address {
+  color: #2563a6;
   font-family: "Open Sans", sans-serif;
   font-weight: 800;
-  text-decoration: none !important;
+  overflow-wrap: anywhere;
 }
 
-.contact-link:hover {
-  color: #174a79 !important;
+.contact-address span {
+  color: #65717e;
+  font-weight: 600;
 }
 
 .office-card {
