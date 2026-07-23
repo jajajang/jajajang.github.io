@@ -6,7 +6,11 @@ full-width: true
 ---
 
 <section class="page-intro">
-  <div class="page-intro-icon"><i class="fas fa-user"></i></div>
+  <img
+    class="about-photo"
+    src="{{ '/assets/img/avatar-icon.jpg' | relative_url }}"
+    alt="Kyoungseok Jang"
+  >
   <div>
     <div class="home-kicker">Researcher · Educator · Advisor</div>
     <h2>About Me</h2>
@@ -21,6 +25,39 @@ full-width: true
       Arizona. I received my Ph.D. in Mathematical Sciences from KAIST under
       the supervision of Prof. Wanmo Kang.
     </p>
+
+    <div class="home-actions">
+      <a
+        class="home-button"
+        href="https://drive.google.com/file/d/1ATNES2ElqU-vXvDDrRVxmQafaXaOzs_b/view?usp=drive_link"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <i class="fas fa-file-alt"></i> Curriculum Vitae
+      </a>
+
+      <a class="home-button secondary" href="mailto:ksjang@cau.ac.kr">
+        <i class="fas fa-envelope"></i> Email
+      </a>
+
+      <a
+        class="home-button secondary"
+        href="https://www.linkedin.com/in/kyoungseok-jang-856440219"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <i class="fab fa-linkedin"></i> LinkedIn
+      </a>
+
+      <a
+        class="home-button secondary"
+        href="https://scholar.google.com/citations?user=hDqIvzAAAAAJ&amp;hl=en"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <i class="fas fa-graduation-cap"></i> Google Scholar
+      </a>
+    </div>
   </div>
 </section>
 
@@ -64,7 +101,7 @@ full-width: true
     <div class="timeline">
       <div class="timeline-item">
         <span class="timeline-period">2015–2022</span>
-        <strong>Integrated M.S. & Ph.D. in Mathematical Sciences</strong>
+        <strong>Integrated M.S. &amp; Ph.D. in Mathematical Sciences</strong>
         <p>KAIST · Advisor: Prof. Wanmo Kang</p>
       </div>
       <div class="timeline-item">
