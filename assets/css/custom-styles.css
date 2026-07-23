@@ -252,6 +252,19 @@ a.home-card:hover::after {
   font-size: 0.9rem;
 }
 
+.home-entry a,
+.timeline-item a {
+  color: #2563a6;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.home-entry a:hover,
+.timeline-item a:hover {
+  color: #174a79;
+  text-decoration: underline;
+}
+
 
 /* ========================================
    Research-interest tags

@@ -91,17 +91,17 @@ full-width: true
       <div class="timeline-item">
         <span class="timeline-period">Mar. 2024–Feb. 2025</span>
         <strong>Postdoctoral Researcher</strong>
-        <p>University of Milan · Nicolò Cesa-Bianchi</p>
+        <p>University of Milan · <a href="https://homes.di.unimi.it/~cesabian/" target="_blank" rel="noopener noreferrer">Prof. Nicolò Cesa-Bianchi</a></p>
       </div>
       <div class="timeline-item">
         <span class="timeline-period">Aug. 2023–Feb. 2024</span>
         <strong>Postdoctoral Researcher</strong>
-        <p>NYU Stern · Junpei Komiyama</p>
+        <p>NYU Stern · <a href="https://sites.google.com/view/junpeikomiyama/home" target="_blank" rel="noopener noreferrer">Prof. Junpei Komiyama</a></p>
       </div>
       <div class="timeline-item">
         <span class="timeline-period">Mar. 2022–Jul. 2023</span>
         <strong>Postdoctoral Researcher</strong>
-        <p>University of Arizona · Kwang-Sung Jun</p>
+        <p>University of Arizona · <a href="https://kwangsungjun.github.io/" target="_blank" rel="noopener noreferrer">Prof. Kwang-Sung Jun</a></p>
       </div>
     </div>
   </section>
