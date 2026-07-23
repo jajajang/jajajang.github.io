@@ -30,7 +30,7 @@ full-width: true
     <div class="person-content">
       <h3>Byungjun Park</h3>
       <span class="person-period">Mar. 2025–Present</span>
-      <p>Multi-Agent Reinforcement Learning · Offline Reinforcement Learning</p>
+      <p>Multi-Agent RL · Offline RL</p>
     </div>
   </article>
 </div>

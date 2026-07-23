@@ -28,12 +28,15 @@ full-width: true
   <section class="detail-card detail-card-wide">
     <h2><i class="fas fa-flask"></i> Research Interests</h2>
     <div class="research-tags">
-      <span class="research-tag">Multi-Armed Bandits</span>
-      <span class="research-tag">High-Dimensional Bandits</span>
-      <span class="research-tag">Best-Arm Identification</span>
       <span class="research-tag">Reinforcement Learning</span>
-      <span class="research-tag">PAC-Bayes Bounds</span>
+      <span class="research-tag">Multi-Armed Bandits</span>
+      <span class="research-tag">Online Learning</span>
+      <span class="research-tag">Offline Reinforcement Learning</span>
       <span class="research-tag">High-Dimensional Statistics</span>
+      <span class="research-tag">Sparse and Low-Rank Learning</span>
+      <span class="research-tag">Best-Arm Identification</span>
+      <span class="research-tag">PAC-Bayes Bounds</span>
+      <span class="research-tag">Statistical Learning Theory</span>
     </div>
   </section>
 
