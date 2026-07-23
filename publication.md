@@ -2,6 +2,7 @@
 layout: page
 title: Publications
 subtitle: Machine Learning Researcher
+full-width: true
 ---
 
 # Official Publications
