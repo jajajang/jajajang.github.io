@@ -830,6 +830,60 @@ a.home-card:hover::after {
   font-size: 0.9rem;
 }
 
+.award-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1rem;
+}
+
+.award-card {
+  position: relative;
+  min-width: 0;
+  padding: 1.35rem;
+  background: #fff;
+  border: 1px solid #d8cfb7;
+  border-top: 5px solid #c6922e;
+  border-radius: 14px;
+  box-shadow: 0 7px 20px rgba(15, 23, 42, 0.07);
+}
+
+.award-year {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  color: #8b641d;
+  font-family: "Open Sans", sans-serif;
+  font-size: 0.76rem;
+  font-weight: 800;
+}
+
+.award-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 42px;
+  height: 42px;
+  margin-bottom: 0.9rem;
+  color: #9a6d1c;
+  background: #fbf4e3;
+  border-radius: 11px;
+}
+
+.award-card h3 {
+  max-width: calc(100% - 10px);
+  margin: 0 0 0.55rem;
+  color: #213547;
+  font-size: 1.04rem;
+  line-height: 1.4;
+}
+
+.award-card p {
+  margin: 0;
+  color: #65717e;
+  font-size: 0.88rem;
+  line-height: 1.55;
+}
+
 /* ========================================
    Contacts
 ======================================== */
@@ -954,6 +1008,10 @@ a.home-card:hover::after {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
+  .award-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
   .office-card {
     grid-template-columns: 1fr;
   }
@@ -992,6 +1050,7 @@ a.home-card:hover::after {
   .people-grid,
   .publication-list,
   .course-grid,
+  .award-grid,
   .contact-grid {
     grid-template-columns: 1fr;
   }

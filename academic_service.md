@@ -150,6 +150,52 @@ full-width: true
   </article>
 </div>
 
+<h2 class="home-section-title"><i class="fas fa-award"></i> Honors and Awards</h2>
+
+<div class="award-grid">
+  <article class="award-card">
+    <span class="award-year">2022</span>
+    <div class="award-icon"><i class="fas fa-star"></i></div>
+    <h3>NeurIPS Scholar Award</h3>
+    <p>36th Conference on Neural Information Processing Systems</p>
+  </article>
+
+  <article class="award-card">
+    <span class="award-year">2013</span>
+    <div class="award-icon"><i class="fas fa-shield-alt"></i></div>
+    <h3>Best of the Best Security Leader Education Student</h3>
+    <p>Korea Institute of Science and Technology Information (KISTI)</p>
+  </article>
+
+  <article class="award-card">
+    <span class="award-year">2012</span>
+    <div class="award-icon"><i class="fas fa-trophy"></i></div>
+    <h3>Math Problem of the Week · 1st Prize</h3>
+    <p>Korea Advanced Institute of Science and Technology (KAIST)</p>
+  </article>
+
+  <article class="award-card">
+    <span class="award-year">2011–2015</span>
+    <div class="award-icon"><i class="fas fa-medal"></i></div>
+    <h3>Presidential Fellowship</h3>
+    <p>Korea Advanced Institute of Science and Technology (KAIST)</p>
+  </article>
+
+  <article class="award-card">
+    <span class="award-year">2011–2015</span>
+    <div class="award-icon"><i class="fas fa-graduation-cap"></i></div>
+    <h3>Presidential Science Scholarship</h3>
+    <p>Korea Student Aid Foundation (KOSAF)</p>
+  </article>
+
+  <article class="award-card">
+    <span class="award-year">2011</span>
+    <div class="award-icon"><i class="fas fa-calculator"></i></div>
+    <h3>30th University Students Contest of Mathematics · Silver Prize</h3>
+    <p>Korean Mathematical Society</p>
+  </article>
+</div>
+
 <h2 class="home-section-title"><i class="fas fa-ellipsis-h"></i> Miscellaneous</h2>
 
 <div class="misc-service-list">
