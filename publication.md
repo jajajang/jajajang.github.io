@@ -122,11 +122,24 @@ full-width: true
     <h3>Globally Convergent Offline Reinforcement Learning with Bellman Residual Minimization</h3>
     <p class="publication-authors">Byungjun Park, Minhyeok Park, Enoch H. Kang, <strong>Kyoungseok Jang</strong></p>
   </article>
+  <article class="publication-card">
+    <div class="publication-meta"><span>Preprint</span><span>2026</span></div>
+    <h3>Efficient Algorithms for Contextual Apple Tasting with Log-Loss</h3>
+    <p class="publication-authors">Byeongwoo An, Kapilan Balagopalan, Sehwa Jeong, Jiun Jeong, <strong>Kyoungseok Jang</strong>, Hyowon Wi, Noseong Park, Gi-Soo Kim, Kwang-Sung Jun</p>
+  </article>
 </div>
 
 <h2 class="home-section-title"><i class="fas fa-chalkboard-teacher"></i> Workshop Papers</h2>
 
 <ul class="workshop-paper-list">
+  <li>
+    <span class="workshop-year">2026</span>
+    <div>
+      <strong>Stability and Generalization for Bellman Residuals</strong>
+      <p>Enoch H. Kang, <b>Kyoungseok Jang</b></p>
+      <small>ICML Workshop on Decision-Making from Offline Datasets to Online Adaptation · Poster</small>
+    </div>
+  </li>
   <li>
     <span class="workshop-year">2026</span>
     <div>
