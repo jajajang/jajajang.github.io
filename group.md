@@ -6,19 +6,66 @@ full-width: true
 ---
 
 <section class="page-intro lab-intro">
-  <div class="page-intro-icon"><i class="fas fa-users"></i></div>
+  <div class="page-intro-icon"><i class="fas fa-project-diagram"></i></div>
   <div>
-    <div class="home-kicker">Join the SnRL Lab</div>
-    <h2>Looking for new students</h2>
+    <div class="home-kicker">Statistical Learning &amp; Reinforcement Learning</div>
+    <h2>About the SnRL Lab</h2>
     <p>
-      We welcome students interested in statistical learning, reinforcement
-      learning, online learning, and their mathematical foundations.
+      The SnRL Lab studies the mathematical and statistical foundations of
+      intelligent decision-making. Our core research spans reinforcement
+      learning, multi-armed bandits, online and offline learning,
+      high-dimensional statistics, and statistical learning theory.
+    </p>
+    <p>
+      We also develop learning and decision-making methods for robotics and
+      investigate efficient, reliable inference for modern AI systems. We aim
+      to connect rigorous theory with algorithms that work in complex,
+      real-world environments.
+    </p>
+    <div class="lab-topic-list" aria-label="Research areas">
+      <span>Learning Theory</span>
+      <span>Reinforcement Learning</span>
+      <span>Robotics</span>
+      <span>Efficient Inference</span>
+    </div>
+    <p class="lab-recruiting">
+      <strong>We are looking for new students.</strong> Students interested in
+      these research areas are welcome to get in touch.
     </p>
     <a class="home-button" href="{{ '/contacts' | relative_url }}">
       <i class="fas fa-envelope"></i> Contact Prof. Jang
     </a>
   </div>
 </section>
+
+<h2 class="home-section-title">
+  <i class="fas fa-user-tie"></i> Principal Investigator
+</h2>
+
+<article class="pi-card">
+  <img
+    class="pi-photo"
+    src="{{ '/assets/img/avatar-icon.jpg' | relative_url }}"
+    alt="Kyoungseok Jang"
+  >
+  <div class="pi-content">
+    <div class="home-kicker">Principal Investigator</div>
+    <h3>Kyoungseok Jang</h3>
+    <p class="pi-role">
+      Assistant Professor · Department of Artificial Intelligence<br>
+      Chung-Ang University
+    </p>
+    <p>
+      Research interests include reinforcement learning, bandits, online
+      learning, high-dimensional statistics, robotics, and efficient inference.
+    </p>
+    <div class="pi-links">
+      <a href="{{ '/' | relative_url }}">Profile</a>
+      <a href="https://scholar.google.com/citations?user=hDqIvzAAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a>
+      <a href="{{ '/contacts' | relative_url }}">Contact</a>
+    </div>
+  </div>
+</article>
 
 <h2 class="home-section-title">
   <i class="fas fa-user-graduate"></i> Master Students

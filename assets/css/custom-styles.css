@@ -529,6 +529,95 @@ a.home-card:hover::after {
   color: #65717e;
 }
 
+.lab-topic-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem;
+  margin: 1rem 0;
+}
+
+.lab-topic-list span {
+  padding: 0.45rem 0.75rem;
+  color: #174a79;
+  background: rgba(255, 255, 255, 0.78);
+  border: 1px solid #bfd4e5;
+  border-radius: 999px;
+  font-family: "Open Sans", sans-serif;
+  font-size: 0.8rem;
+  font-weight: 700;
+}
+
+.lab-recruiting {
+  margin-top: 1.2rem !important;
+}
+
+.pi-card {
+  display: grid;
+  grid-template-columns: 190px minmax(0, 1fr);
+  gap: 1.6rem;
+  align-items: center;
+  overflow: hidden;
+  padding: 1.5rem;
+  background: #f8fbfe;
+  border: 1px solid #cbd9e5;
+  border-top: 5px solid #2563a6;
+  border-radius: 16px;
+  box-shadow: 0 8px 22px rgba(15, 23, 42, 0.08);
+}
+
+.pi-photo {
+  display: block;
+  width: 190px;
+  height: 190px;
+  object-fit: cover;
+  border: 4px solid #fff;
+  border-radius: 14px;
+  box-shadow: 0 7px 20px rgba(15, 23, 42, 0.15);
+}
+
+.pi-content h3 {
+  margin: 0 0 0.4rem;
+  color: #213547;
+  font-size: 1.5rem;
+}
+
+.pi-content p {
+  max-width: 760px;
+  margin: 0.5rem 0;
+  color: #586675;
+  line-height: 1.65;
+}
+
+.pi-role {
+  color: #334b60 !important;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 600;
+}
+
+.pi-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+  margin-top: 1rem;
+}
+
+.pi-links a {
+  padding: 0.5rem 0.8rem;
+  color: #2563a6 !important;
+  background: #fff;
+  border: 1px solid #b8cbe0;
+  border-radius: 8px;
+  font-family: "Open Sans", sans-serif;
+  font-size: 0.82rem;
+  font-weight: 700;
+  text-decoration: none !important;
+}
+
+.pi-links a:hover {
+  color: #174a79 !important;
+  background: #edf5fc;
+}
+
 .people-grid {
   display: grid;
   grid-template-columns: repeat(4, minmax(0, 1fr));
@@ -1060,6 +1149,15 @@ a.home-card:hover::after {
   .office-card {
     grid-template-columns: 1fr;
   }
+
+  .pi-card {
+    grid-template-columns: 155px minmax(0, 1fr);
+  }
+
+  .pi-photo {
+    width: 155px;
+    height: 155px;
+  }
 }
 
 
@@ -1130,6 +1228,16 @@ a.home-card:hover::after {
   .about-photo {
     width: 82px;
     height: 82px;
+  }
+
+  .pi-card {
+    grid-template-columns: 1fr;
+    padding: 1.25rem;
+  }
+
+  .pi-photo {
+    width: 150px;
+    height: 150px;
   }
 
   .reviewer-table th {
