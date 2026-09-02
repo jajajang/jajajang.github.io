@@ -35,6 +35,24 @@ full-width: true
       ksajks <span>[at]</span> gmail <span>[dot]</span> com
     </div>
   </section>
+
+  <section class="contact-card">
+    <div class="contact-card-icon"><i class="fas fa-users"></i></div>
+    <h2>SnRL Lab Email</h2>
+    <p>For lab and prospective student inquiries.</p>
+    <div class="contact-address">
+      slnrl <span>[dot]</span> lab <span>[at]</span> gmail <span>[dot]</span> com
+    </div>
+  </section>
+
+  <section class="contact-card">
+    <div class="contact-card-icon"><i class="fas fa-lightbulb"></i></div>
+    <h2>Center for Superintelligence</h2>
+    <p>For correspondence related to the research center.</p>
+    <div class="contact-address">
+      kyoungseok <span>[dot]</span> jang <span>[at]</span> superintel <span>[dot]</span> kr
+    </div>
+  </section>
 </div>
 
 <section class="office-card">
