@@ -21,6 +21,14 @@ full-width: true
 
 <div class="publication-list">
   <article class="publication-card">
+    <div class="publication-meta"><span>NeurIPS</span><span>2026</span></div>
+    <h3>Statistical Complexity of Soft Bellman Residual Minimization</h3>
+    <p class="publication-authors">Enoch Hyunwook Kang<sup>*</sup>, <strong>Kyoungseok Jang<sup>*</sup></strong><br><small>* Equal contribution</small></p>
+    <p class="publication-venue">Conference on Neural Information Processing Systems · Main Track · Accepted as Poster</p>
+    <a class="paper-link" href="{% post_url 2026-09-27-NeurIPS2026 %}">Research summary <span>→</span></a>
+  </article>
+
+  <article class="publication-card">
     <div class="publication-meta"><span>AISTATS</span><span>2026</span></div>
     <h3>Sparse Linear Bandits with Fixed Sparsity Support: Adversarial and Stochastic Regimes</h3>
     <p class="publication-authors"><strong>Kyoungseok Jang</strong>, Nam Tran, Nicolò Cesa-Bianchi</p>
@@ -160,7 +168,7 @@ full-width: true
     <span class="workshop-year">2026</span>
     <div>
       <strong>Statistical Complexity of Soft Bellman Residual Minimization</strong>
-      <p>Enoch Hyunwook Kang, <b>Kyoungseok Jang</b></p>
+      <p>Enoch Hyunwook Kang<sup>*</sup>, <b>Kyoungseok Jang<sup>*</sup></b> <small>(* Equal contribution)</small></p>
       <small>ICML Workshop on Decision-Making from Offline Datasets to Online Adaptation · Poster</small>
     </div>
   </li>
