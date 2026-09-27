@@ -25,7 +25,7 @@ full-width: true
     <h3>Statistical Complexity of Soft Bellman Residual Minimization</h3>
     <p class="publication-authors">Enoch Hyunwook Kang<sup>*</sup>, <strong>Kyoungseok Jang<sup>*</sup></strong><br><small>* Equal contribution</small></p>
     <p class="publication-venue">Conference on Neural Information Processing Systems · Main Track · Accepted as Poster</p>
-    <a class="paper-link" href="{% post_url 2026-09-27-NeurIPS2026 %}">Research summary <span>→</span></a>
+    <a class="paper-link" href="https://arxiv.org/abs/2508.18741">View paper <span>→</span></a>
   </article>
 
   <article class="publication-card">
@@ -119,12 +119,6 @@ full-width: true
 <h2 class="home-section-title"><i class="fas fa-file-alt"></i> Preprints</h2>
 
 <div class="publication-list">
-  <article class="publication-card">
-    <div class="publication-meta"><span>Preprint</span><span>2025</span></div>
-    <h3>Stability and Generalization for Bellman Residuals</h3>
-    <p class="publication-authors">Enoch H. Kang, <strong>Kyoungseok Jang</strong></p>
-    <a class="paper-link" href="https://arxiv.org/abs/2508.18741">View paper <span>→</span></a>
-  </article>
   <article class="publication-card">
     <div class="publication-meta"><span>Preprint</span></div>
     <h3>Globally Convergent Offline Reinforcement Learning with Bellman Residual Minimization</h3>
