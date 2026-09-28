@@ -14,6 +14,16 @@ full-width: true
   </div>
 </section>
 
+<h2 class="home-section-title"><i class="fas fa-user-tie"></i> Area Chair</h2>
+
+<div class="reviewer-table-wrap">
+  <table class="reviewer-table">
+    <tbody>
+      <tr><th scope="row">ICLR</th><td>2027</td></tr>
+    </tbody>
+  </table>
+</div>
+
 <h2 class="home-section-title"><i class="fas fa-clipboard-check"></i> Reviewer</h2>
 
 <div class="reviewer-table-wrap">
@@ -23,6 +33,7 @@ full-width: true
       <tr><th scope="row">JMLR</th><td>2023</td></tr>
       <tr><th scope="row">ICML</th><td>2023, 2024, <strong>2026 · Gold Reviewer</strong></td></tr>
       <tr><th scope="row">ICLR</th><td>2024</td></tr>
+      <tr><th scope="row">AISTATS</th><td>2027</td></tr>
       <tr><th scope="row">NeurIPS</th><td>2022, 2023, 2024, 2025, <strong>2026</strong></td></tr>
       <tr><th scope="row">COLT</th><td>2024, 2025, <strong>2026</strong></td></tr>
       <tr><th scope="row">Management Science</th><td>2024</td></tr>
