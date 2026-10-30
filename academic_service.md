@@ -20,6 +20,7 @@ full-width: true
   <table class="reviewer-table">
     <tbody>
       <tr><th scope="row">ICLR</th><td>2027</td></tr>
+      <tr><th scope="row">ICML</th><td>2027</td></tr>
     </tbody>
   </table>
 </div>
