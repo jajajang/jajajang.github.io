@@ -33,6 +33,7 @@ full-width: true
     <h3>Sparse Linear Bandits with Fixed Sparsity Support: Adversarial and Stochastic Regimes</h3>
     <p class="publication-authors"><strong>Kyoungseok Jang</strong>, Nam Tran, Nicolò Cesa-Bianchi</p>
     <p class="publication-venue">The Conference on Artificial Intelligence and Statistics</p>
+    <a class="paper-link" href="https://openreview.net/forum?id=FUiZHL1WNu">View paper <span>→</span></a>
   </article>
 
   <article class="publication-card">
@@ -40,7 +41,7 @@ full-width: true
     <h3>GL-LowPopArt: A Nearly Instance-Wise Minimax Estimator for (Adaptive) Generalized Linear Low-Rank Trace Regression</h3>
     <p class="publication-authors">Junghyun Lee, <strong>Kyoungseok Jang</strong>, Kwang-Sung Jun, Milan Vojnovic, Se-Young Yun</p>
     <p class="publication-venue">The Conference on Artificial Intelligence and Statistics</p>
-    <a class="paper-link" href="https://arxiv.org/abs/2506.03074">View paper <span>→</span></a>
+    <a class="paper-link" href="https://openreview.net/forum?id=mMxiIP3Gxu">View paper <span>→</span></a>
   </article>
 
   <article class="publication-card">
@@ -48,7 +49,7 @@ full-width: true
     <h3>Rate-optimal Design for Anytime Best Arm Identification</h3>
     <p class="publication-authors">Junpei Komiyama, <strong>Kyoungseok Jang</strong>, Honda Junya</p>
     <p class="publication-venue">The Conference on Artificial Intelligence and Statistics</p>
-    <a class="paper-link" href="https://arxiv.org/abs/2510.23199">View paper <span>→</span></a>
+    <a class="paper-link" href="https://openreview.net/forum?id=6hmBuvqNye">View paper <span>→</span></a>
   </article>
 
   <article class="publication-card">
@@ -121,13 +122,23 @@ full-width: true
 <div class="publication-list">
   <article class="publication-card">
     <div class="publication-meta"><span>Preprint</span></div>
-    <h3>Globally Convergent Offline Reinforcement Learning with Bellman Residual Minimization</h3>
+    <h3>Globally Convergent Offline Reinforcement Learning with Smoothed Bellman Residual Minimization</h3>
     <p class="publication-authors">Byungjun Park, Minhyeok Park, Enoch H. Kang, <strong>Kyoungseok Jang</strong></p>
   </article>
   <article class="publication-card">
     <div class="publication-meta"><span>Preprint</span><span>2026</span></div>
     <h3>Efficient Algorithms for Contextual Apple Tasting with Log-Loss</h3>
-    <p class="publication-authors">Byeongwoo An, Kapilan Balagopalan, Sehwa Jeong, Jiun Jeong, <strong>Kyoungseok Jang</strong>, Hyowon Wi, Noseong Park, Gi-Soo Kim, Kwang-Sung Jun</p>
+    <p class="publication-authors">Byeongwoo An, Kapilan Balagopalan, Hyowon Wi, Sehwa Jeong, Jiun Jeong, <strong>Kyoungseok Jang</strong>, Noseong Park, Gi-Soo Kim, Kwang-Sung Jun</p>
+  </article>
+  <article class="publication-card">
+    <div class="publication-meta"><span>Preprint</span><span>2026</span></div>
+    <h3>An End-to-end Offline RL Approach to Multi-turn Agentic Alignment</h3>
+    <p class="publication-authors">Enoch H. Kang, Byungjun Park, <strong>Kyoungseok Jang</strong></p>
+  </article>
+  <article class="publication-card">
+    <div class="publication-meta"><span>Preprint</span><span>2026</span></div>
+    <h3>Beyond Second-Order Information: Paid Logistic Regression with Noisy Features</h3>
+    <p class="publication-authors">Sanghwa Kim, <strong>Kyoungseok Jang</strong>, Se-Young Yun</p>
   </article>
 </div>
 
